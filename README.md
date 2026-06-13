@@ -5,10 +5,10 @@ A simple yet effective mobile app that detects plagiarism in text using manual i
 This is my university graduation project — a mobile application designed to help users check text for plagiarism quickly and easily. The app supports two input methods: typing directly into the app or using the built-in OCR feature to extract text from images.
 
 ✨ Features
-Text Input – Type or paste any text you want to check.
+Manual Text Input – Type or paste text to check
 
-OCR Support – Capture an image of a document, book, or handwritten note, and the app will extract the text automatically.
+OCR Text Extraction – Capture an image, and Google ML Kit extracts the text automatically
 
-Plagiarism Checking – The app compares the input text against online sources to calculate a similarity rate.
+Plagiarism Checking – Compares input text against sources and returns a similarity rate
 
-Simple & Clean UI – Easy-to-use interface (as shown in the screenshot).
+Clean & Minimal UI – Simple interface focused on core functionality
