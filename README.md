@@ -40,12 +40,12 @@ lib/
 📱 Screenshot
 
 
-<img width="1480" height="2740" alt="IMG-20240417-WA0052-portrait_1" src="https://github.com/user-attachments/assets/119b7391-88c7-4943-87a0-fdc2bc9e35c5" />
+<img width="200" alt="App main screen" src="https://github.com/user-attachments/assets/119b7391-88c7-4943-87a0-fdc2bc9e35c5" />
 
-<img width="1480" height="2740" alt="IMG-20240417-WA0054-portrait" src="https://github.com/user-attachments/assets/c3a70fb5-899a-4bc0-bb72-2781e85c50e9" />
+<img width="200" alt="OCR feature screen" src="https://github.com/user-attachments/assets/c3a70fb5-899a-4bc0-bb72-2781e85c50e9" />
 
-<img width="1480" height="2740" alt="WhatsApp Image 2024-04-17 at 21-portrait" src="https://github.com/user-attachments/assets/7afcc8d2-797d-4847-868d-4f342e035c94" />
+<img width="200" alt="Plagiarism result screen" src="https://github.com/user-attachments/assets/7afcc8d2-797d-4847-868d-4f342e035c94" />
 
-<img width="1480" height="2740" alt="IMG-20240417-WA0056-portrait" src="https://github.com/user-attachments/assets/3b226095-9066-4b9c-9c37-9442117c046f" />
+<img width="200" alt="Another app screen" src="https://github.com/user-attachments/assets/3b226095-9066-4b9c-9c37-9442117c046f" />
 
-<img width="1480" height="2740" alt="IMG-20240417-WA0057-portrait" src="https://github.com/user-attachments/assets/2dcd46ad-8a79-435e-ae8e-38e82a8bb2f9" />
+<img width="200" alt="Final app screen" src="https://github.com/user-attachments/assets/2dcd46ad-8a79-435e-ae8e-38e82a8bb2f9" />
