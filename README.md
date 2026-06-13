@@ -30,11 +30,7 @@ Similarity Rate (%) is displayed on screen
 
 📂 Project Structure
 
-lib/
-├── screens/          # UI screens (home, OCR, results)
-├── services/         # Firebase & ML Kit integration
-├── widgets/          # Reusable UI components
-└── utils/            # Helpers & constants
+[OCR-Plagiarism-Checker-App(DevHussainKhamis).txt](https://github.com/user-attachments/files/28918871/OCR-Plagiarism-Checker-App.DevHussainKhamis.txt)
 
 
 📱 Screenshot
